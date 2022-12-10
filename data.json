@@ -1,0 +1,1820 @@
+{
+ "info": {
+  "nickname": "Ashlen",
+  "server": "os_euro",
+  "level": 59,
+  "icon": ""
+ },
+ "stats": {
+  "achievements": 587,
+  "days_active": 612,
+  "characters": 42,
+  "spiral_abyss": "8-3",
+  "anemoculi": 66,
+  "geoculi": 131,
+  "electroculi": 181,
+  "common_chests": 1785,
+  "exquisite_chests": 1162,
+  "precious_chests": 339,
+  "luxurious_chests": 137,
+  "remarkable_chests": 83,
+  "unlocked_waypoints": 244,
+  "unlocked_domains": 42
+ },
+ "characters": [
+  {
+   "id": 10000046,
+   "name": "Hu Tao",
+   "element": "Pyro",
+   "rarity": 5,
+   "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png",
+   "collab": false,
+   "level": 90,
+   "friendship": 10,
+   "constellation": 0,
+   "weapon": {
+    "id": 13401,
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
+    "name": "Dragon's Bane",
+    "rarity": 4,
+    "description": "A polearm decorated with an entwining golden dragon. Light and sharp, this weapon may very well kill dragons with ease.",
+    "level": 90,
+    "type": "Polearm",
+    "ascension": 6,
+    "refinement": 5
+   },
+   "artifacts": [
+    {
+     "id": 80543,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15006_4.png",
+     "name": "Witch's Flower of Blaze",
+     "pos_name": "Flower of Life",
+     "pos": 1,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150061,
+      "name": "Crimson Witch of Flames",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Pyro DMG Bonus +15%",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "Increases Overloaded and Burning, and Burgeon DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks.",
+        "enabled": true
+       }
+      ]
+     }
+    },
+    {
+     "id": 80523,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15006_2.png",
+     "name": "Witch's Ever-Burning Plume",
+     "pos_name": "Plume of Death",
+     "pos": 2,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150061,
+      "name": "Crimson Witch of Flames",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Pyro DMG Bonus +15%",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "Increases Overloaded and Burning, and Burgeon DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks.",
+        "enabled": true
+       }
+      ]
+     }
+    },
+    {
+     "id": 80554,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15006_5.png",
+     "name": "Witch's End Time",
+     "pos_name": "Sands of Eon",
+     "pos": 3,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150061,
+      "name": "Crimson Witch of Flames",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Pyro DMG Bonus +15%",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "Increases Overloaded and Burning, and Burgeon DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks.",
+        "enabled": true
+       }
+      ]
+     }
+    },
+    {
+     "id": 79513,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15005_1.png",
+     "name": "Omen of Thunderstorm",
+     "pos_name": "Goblet of Eonothem",
+     "pos": 4,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150051,
+      "name": "Thundering Fury",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Electro DMG Bonus +15%",
+        "enabled": false
+       },
+       {
+        "pieces": 4,
+        "effect": "Increases DMG caused by Overloaded, Electro-Charged, Superconduct, and Hyperbloom by 40%, and the DMG Bonus conferred by Aggravate is increased by 20%. When Quicken or the aforementioned Elemental Reactions are triggered, Elemental Skill CD is decreased by 1s. Can only occur once every 0.8s.",
+        "enabled": false
+       }
+      ]
+     }
+    },
+    {
+     "id": 80533,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15006_3.png",
+     "name": "Witch's Scorching Hat",
+     "pos_name": "Circlet of Logos",
+     "pos": 5,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150061,
+      "name": "Crimson Witch of Flames",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Pyro DMG Bonus +15%",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "Increases Overloaded and Burning, and Burgeon DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks.",
+        "enabled": true
+       }
+      ]
+     }
+    }
+   ],
+   "constellations": [
+    {
+     "id": 461,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Hutao_03.png",
+     "pos": 1,
+     "name": "Crimson Bouquet",
+     "effect": "While in a <color=#FFD780FF>Paramita Papilio</color> state activated by <color=#FFD780FF>Guide to Afterlife</color>, Hu Tao's Charge Attacks do not consume Stamina.",
+     "activated": false
+    },
+    {
+     "id": 462,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Hutao_01.png",
+     "pos": 2,
+     "name": "Ominous Rainfall",
+     "effect": "Increases the <color=#FFD780FF>Blood Blossom</color> DMG by an amount equal to 10% of Hu Tao's Max HP at the time the effect is applied.\\nAdditionally, <color=#FFD780FF>Spirit Soother</color> will also apply the <color=#FFD780FF>Blood Blossom</color> effect.",
+     "activated": false
+    },
+    {
+     "id": 463,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Hutao_01.png",
+     "pos": 3,
+     "name": "Lingering Carmine",
+     "effect": "Increases the Level of <color=#FFD780FF>Guide to Afterlife</color> by 3.\\nMaximum upgrade level is 15.",
+     "activated": false
+    },
+    {
+     "id": 464,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Hutao_02.png",
+     "pos": 4,
+     "name": "Garden of Eternal Rest",
+     "effect": "Upon defeating an enemy affected by a <color=#FFD780FF>Blood Blossom</color> that Hu Tao applied herself, all nearby allies in the party (excluding Hu Tao herself) will have their CRIT Rate increased by 12% for 15s.",
+     "activated": false
+    },
+    {
+     "id": 465,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Hutao_02.png",
+     "pos": 5,
+     "name": "Floral Incense",
+     "effect": "Increases the Level of <color=#FFD780FF>Spirit Soother</color> by 3.\\nMaximum upgrade level is 15.",
+     "activated": false
+    },
+    {
+     "id": 466,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Hutao_04.png",
+     "pos": 6,
+     "name": "Butterfly's Embrace",
+     "effect": "Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike:\\nHu Tao will not fall as a result of the DMG sustained. Additionally, for the next 10s, her All Elemental and Physical RES is increased by 200%, her CRIT Rate is increased by 100%, and her resistance to interruption is greatly increased.\\nThis effect triggers automatically when Hu Tao has 1 HP left.\\nCan only occur once every 60s.",
+     "activated": false
+    }
+   ],
+   "outfits": []
+  },
+  {
+   "id": 10000037,
+   "name": "Ganyu",
+   "element": "Cryo",
+   "rarity": 5,
+   "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png",
+   "collab": false,
+   "level": 90,
+   "friendship": 10,
+   "constellation": 0,
+   "weapon": {
+    "id": 15502,
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png",
+    "name": "Amos' Bow",
+    "rarity": 5,
+    "description": "An extremely ancient bow that has retained its power despite its original master being long gone. It draws power from everyone and everything in the world, and the further away you are from that which your heart desires, the more powerful it is.",
+    "level": 90,
+    "type": "Bow",
+    "ascension": 6,
+    "refinement": 1
+   },
+   "artifacts": [
+    {
+     "id": 71544,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14001_4.png",
+     "name": "Snowswept Memory",
+     "pos_name": "Flower of Life",
+     "pos": 1,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2140011,
+      "name": "Blizzard Strayer",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Cryo DMG Bonus +15%",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "When a character attacks an opponent affected by Cryo, their CRIT Rate is increased by 20%. If the opponent is Frozen, CRIT Rate is increased by an additional 20%.",
+        "enabled": true
+       }
+      ]
+     }
+    },
+    {
+     "id": 71523,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14001_2.png",
+     "name": "Icebreaker's Resolve",
+     "pos_name": "Plume of Death",
+     "pos": 2,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2140011,
+      "name": "Blizzard Strayer",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Cryo DMG Bonus +15%",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "When a character attacks an opponent affected by Cryo, their CRIT Rate is increased by 20%. If the opponent is Frozen, CRIT Rate is increased by an additional 20%.",
+        "enabled": true
+       }
+      ]
+     }
+    },
+    {
+     "id": 71553,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14001_5.png",
+     "name": "Frozen Homeland's Demise",
+     "pos_name": "Sands of Eon",
+     "pos": 3,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2140011,
+      "name": "Blizzard Strayer",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Cryo DMG Bonus +15%",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "When a character attacks an opponent affected by Cryo, their CRIT Rate is increased by 20%. If the opponent is Frozen, CRIT Rate is increased by an additional 20%.",
+        "enabled": true
+       }
+      ]
+     }
+    },
+    {
+     "id": 77514,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_1.png",
+     "name": "Wanderer's String-Kettle",
+     "pos_name": "Goblet of Eonothem",
+     "pos": 4,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150031,
+      "name": "Wanderer's Troupe",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Increases Elemental Mastery by 80.",
+        "enabled": false
+       },
+       {
+        "pieces": 4,
+        "effect": "Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow.",
+        "enabled": false
+       }
+      ]
+     }
+    },
+    {
+     "id": 71533,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14001_3.png",
+     "name": "Broken Rime's Echo",
+     "pos_name": "Circlet of Logos",
+     "pos": 5,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2140011,
+      "name": "Blizzard Strayer",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Cryo DMG Bonus +15%",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "When a character attacks an opponent affected by Cryo, their CRIT Rate is increased by 20%. If the opponent is Frozen, CRIT Rate is increased by an additional 20%.",
+        "enabled": true
+       }
+      ]
+     }
+    }
+   ],
+   "constellations": [
+    {
+     "id": 371,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ganyu_01.png",
+     "pos": 1,
+     "name": "Dew-Drinker",
+     "effect": "Charge Level 2 Frostflake Arrows or Frostflake Arrow Blooms decrease opponents' <color=#99FFFFFF>Cryo RES</color> by 15% for 6s upon hit.\\nA hit also regenerates 2 Energy for Ganyu. This effect can only occur once per Charge Level 2 Frostflake Arrow, regardless if Frostflake Arrow itself or its Bloom hits the target.",
+     "activated": false
+    },
+    {
+     "id": 372,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ganyu_02.png",
+     "pos": 2,
+     "name": "The Auspicious",
+     "effect": "<color=#FFD780FF>Trail of the Qilin</color> gains 1 additional charge.",
+     "activated": false
+    },
+    {
+     "id": 373,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Ganyu_01.png",
+     "pos": 3,
+     "name": "Cloud-Strider",
+     "effect": "Increases the Level of <color=#FFD780FF>Celestial Shower</color> by 3.\\nMaximum upgrade level is 15.",
+     "activated": false
+    },
+    {
+     "id": 374,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ganyu_03.png",
+     "pos": 4,
+     "name": "Westward Sojourn",
+     "effect": "Opponents standing within the AoE of <color=#FFD780FF>Celestial Shower</color> take increased DMG. This effect strengthens over time.\\nIncreased DMG taken begins at 5% and increases by 5% every 3s, up to a maximum of 25%.\\nThe effect lingers for 3s after the opponent leaves the AoE.",
+     "activated": false
+    },
+    {
+     "id": 375,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Ganyu_02.png",
+     "pos": 5,
+     "name": "The Merciful",
+     "effect": "Increases the Level of <color=#FFD780FF>Trail of the Qilin</color> by 3.\\nMaximum upgrade level is 15.",
+     "activated": false
+    },
+    {
+     "id": 376,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ganyu_04.png",
+     "pos": 6,
+     "name": "The Clement",
+     "effect": "Using <color=#FFD780FF>Trail of the Qilin</color> causes the next Frostflake Arrow shot within 30s to not require charging.",
+     "activated": false
+    }
+   ],
+   "outfits": []
+  },
+  {
+   "id": 10000041,
+   "name": "Mona",
+   "element": "Hydro",
+   "rarity": 5,
+   "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png",
+   "collab": false,
+   "level": 90,
+   "friendship": 10,
+   "constellation": 3,
+   "weapon": {
+    "id": 14402,
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png",
+    "name": "The Widsith",
+    "rarity": 4,
+    "description": "A heavy notebook filled with musical scores. Though suffering from moth damage and heavy wear-and-tear, there is still much power to be found among the hand-written words within.",
+    "level": 90,
+    "type": "Catalyst",
+    "ascension": 6,
+    "refinement": 3
+   },
+   "artifacts": [
+    {
+     "id": 90544,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15016_4.png",
+     "name": "Gilded Corsage",
+     "pos_name": "Flower of Life",
+     "pos": 1,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150161,
+      "name": "Heart of Depth",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Hydro DMG Bonus +15%",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s.",
+        "enabled": true
+       }
+      ]
+     }
+    },
+    {
+     "id": 90523,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15016_2.png",
+     "name": "Gust of Nostalgia",
+     "pos_name": "Plume of Death",
+     "pos": 2,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150161,
+      "name": "Heart of Depth",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Hydro DMG Bonus +15%",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s.",
+        "enabled": true
+       }
+      ]
+     }
+    },
+    {
+     "id": 90554,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15016_5.png",
+     "name": "Copper Compass",
+     "pos_name": "Sands of Eon",
+     "pos": 3,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150161,
+      "name": "Heart of Depth",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Hydro DMG Bonus +15%",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s.",
+        "enabled": true
+       }
+      ]
+     }
+    },
+    {
+     "id": 71514,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14001_1.png",
+     "name": "Frost-Weaved Dignity",
+     "pos_name": "Goblet of Eonothem",
+     "pos": 4,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2140011,
+      "name": "Blizzard Strayer",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Cryo DMG Bonus +15%",
+        "enabled": false
+       },
+       {
+        "pieces": 4,
+        "effect": "When a character attacks an opponent affected by Cryo, their CRIT Rate is increased by 20%. If the opponent is Frozen, CRIT Rate is increased by an additional 20%.",
+        "enabled": false
+       }
+      ]
+     }
+    },
+    {
+     "id": 90533,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15016_3.png",
+     "name": "Wine-Stained Tricorne",
+     "pos_name": "Circlet of Logos",
+     "pos": 5,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150161,
+      "name": "Heart of Depth",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Hydro DMG Bonus +15%",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s.",
+        "enabled": true
+       }
+      ]
+     }
+    }
+   ],
+   "constellations": [
+    {
+     "id": 411,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_01.png",
+     "pos": 1,
+     "name": "Prophecy of Submersion",
+     "effect": "When any of your own party members hits an opponent affected by an Omen, the effects of <color=#80C0FFFF>Hydro-related Elemental Reactions</color> are enhanced for 8s:\\n\u00b7Electro-Charged DMG increases by 15%.\\n\u00b7Vaporize DMG increases by 15%.\\n\u00b7Hydro Swirl DMG increases by 15%.\\n\u00b7Frozen duration is extended by 15%.",
+     "activated": true
+    },
+    {
+     "id": 412,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_02.png",
+     "pos": 2,
+     "name": "Lunar Chain",
+     "effect": "When a Normal Attack hits, there is a 20% chance that it will be automatically followed by a Charged Attack.\\nThis effect can only occur once every 5s.",
+     "activated": true
+    },
+    {
+     "id": 413,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Mona_01.png",
+     "pos": 3,
+     "name": "Restless Revolution",
+     "effect": "Increases the Level of <color=#FFD780FF>Stellaris Phantasm</color> by 3.\\nMaximum upgrade level is 15.",
+     "activated": true
+    },
+    {
+     "id": 414,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_03.png",
+     "pos": 4,
+     "name": "Prophecy of Oblivion",
+     "effect": "When any party member attacks an opponent affected by an Omen, their CRIT Rate is increased by 15%.",
+     "activated": false
+    },
+    {
+     "id": 415,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Mona_02.png",
+     "pos": 5,
+     "name": "Mockery of Fortuna",
+     "effect": "Increases the Level of <color=#FFD780FF>Mirror Reflection of Doom</color> by 3.\\nMaximum upgrade level is 15.",
+     "activated": false
+    },
+    {
+     "id": 416,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_04.png",
+     "pos": 6,
+     "name": "Rhetorics of Calamitas",
+     "effect": "Upon entering <color=#FFD780FF>Illusory Torrent</color>, Mona gains a 60% increase to the DMG of her next Charged Attack per second of movement.\\nA maximum DMG Bonus of 180% can be achieved in this manner. The effect lasts for no more than 8s.",
+     "activated": false
+    }
+   ],
+   "outfits": [
+    {
+     "id": 204101,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/costume/UI_AvatarIcon_MonaCostumeWic@2x.png",
+     "name": "Pact of Stars and Moon"
+    }
+   ]
+  },
+  {
+   "id": 10000049,
+   "name": "Yoimiya",
+   "element": "Pyro",
+   "rarity": 5,
+   "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png",
+   "collab": false,
+   "level": 90,
+   "friendship": 10,
+   "constellation": 0,
+   "weapon": {
+    "id": 15405,
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png",
+    "name": "Rust",
+    "rarity": 4,
+    "description": "A completely rusted iron greatbow. The average person would lack the strength to even lift it, let alone fire it.",
+    "level": 90,
+    "type": "Bow",
+    "ascension": 6,
+    "refinement": 1
+   },
+   "artifacts": [
+    {
+     "id": 93544,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_4.png",
+     "name": "Entangling Bloom",
+     "pos_name": "Flower of Life",
+     "pos": 1,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150191,
+      "name": "Shimenawa's Reminiscence",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "ATK +18%.",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration.",
+        "enabled": true
+       }
+      ]
+     }
+    },
+    {
+     "id": 93523,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_2.png",
+     "name": "Shaft of Remembrance",
+     "pos_name": "Plume of Death",
+     "pos": 2,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150191,
+      "name": "Shimenawa's Reminiscence",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "ATK +18%.",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration.",
+        "enabled": true
+       }
+      ]
+     }
+    },
+    {
+     "id": 93553,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_5.png",
+     "name": "Morning Dew's Moment",
+     "pos_name": "Sands of Eon",
+     "pos": 3,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150191,
+      "name": "Shimenawa's Reminiscence",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "ATK +18%.",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration.",
+        "enabled": true
+       }
+      ]
+     }
+    },
+    {
+     "id": 93513,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_1.png",
+     "name": "Hopeful Heart",
+     "pos_name": "Goblet of Eonothem",
+     "pos": 4,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150191,
+      "name": "Shimenawa's Reminiscence",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "ATK +18%.",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration.",
+        "enabled": true
+       }
+      ]
+     }
+    },
+    {
+     "id": 79534,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15005_3.png",
+     "name": "Thunder Summoner's Crown",
+     "pos_name": "Circlet of Logos",
+     "pos": 5,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150051,
+      "name": "Thundering Fury",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Electro DMG Bonus +15%",
+        "enabled": false
+       },
+       {
+        "pieces": 4,
+        "effect": "Increases DMG caused by Overloaded, Electro-Charged, Superconduct, and Hyperbloom by 40%, and the DMG Bonus conferred by Aggravate is increased by 20%. When Quicken or the aforementioned Elemental Reactions are triggered, Elemental Skill CD is decreased by 1s. Can only occur once every 0.8s.",
+        "enabled": false
+       }
+      ]
+     }
+    }
+   ],
+   "constellations": [
+    {
+     "id": 491,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yoimiya_01.png",
+     "pos": 1,
+     "name": "Agate Ryuukin",
+     "effect": "The Aurous Blaze created by <color=#FFD780FF>Ryuukin Saxifrage</color> lasts for an extra 4s.\\nAdditionally, when an opponent affected by Aurous Blaze is defeated within its duration, Yoimiya's ATK is increased by 20% for 20s.",
+     "activated": false
+    },
+    {
+     "id": 492,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yoimiya_02.png",
+     "pos": 2,
+     "name": "A Procession of Bonfires",
+     "effect": "When Yoimiya's <color=#FF9999FF>Pyro DMG</color> scores a CRIT Hit, Yoimiya will gain a 25% <color=#FF9999FF>Pyro DMG Bonus</color> for 6s.\\nThis effect can be triggered even when Yoimiya is not the active character.",
+     "activated": false
+    },
+    {
+     "id": 493,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Yoimiya_01.png",
+     "pos": 3,
+     "name": "Trickster's Flare",
+     "effect": "Increases the Level of <color=#FFD780FF>Niwabi Fire-Dance</color> by 3.\\nMaximum upgrade level is 15.",
+     "activated": false
+    },
+    {
+     "id": 494,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yoimiya_03.png",
+     "pos": 4,
+     "name": "Pyrotechnic Professional",
+     "effect": "When Yoimiya's own Aurous Blaze triggers an explosion, <color=#FFD780FF>Niwabi Fire-Dance</color>'s CD is decreased by 1.2s.",
+     "activated": false
+    },
+    {
+     "id": 495,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Yoimiya_02.png",
+     "pos": 5,
+     "name": "A Summer Festival's Eve",
+     "effect": "Increases the Level of <color=#FFD780FF>Ryuukin Saxifrage</color> by 3.\\nMaximum upgrade level is 15.",
+     "activated": false
+    },
+    {
+     "id": 496,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yoimiya_04.png",
+     "pos": 6,
+     "name": "Naganohara Meteor Swarm",
+     "effect": "During <color=#FFD780FF>Niwabi Fire-Dance</color>, Yoimiya's Normal Attacks have a 50% chance of firing an extra Blazing Arrow that deals 60% of its original DMG. This DMG is considered Normal Attack DMG.",
+     "activated": false
+    }
+   ],
+   "outfits": []
+  },
+  {
+   "id": 10000026,
+   "name": "Xiao",
+   "element": "Anemo",
+   "rarity": 5,
+   "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png",
+   "collab": false,
+   "level": 90,
+   "friendship": 10,
+   "constellation": 0,
+   "weapon": {
+    "id": 13419,
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Windvane.png",
+    "name": "Missive Windspear",
+    "rarity": 4,
+    "description": "A beacon that shows the direction of the wind. Not every idyll carried on the breeze remains a gentle thing...",
+    "level": 90,
+    "type": "Polearm",
+    "ascension": 6,
+    "refinement": 5
+   },
+   "artifacts": [
+    {
+     "id": 75544,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_4.png",
+     "name": "Gladiator's Nostalgia",
+     "pos_name": "Flower of Life",
+     "pos": 1,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150011,
+      "name": "Gladiator's Finale",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "ATK +18%.",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.",
+        "enabled": false
+       }
+      ]
+     }
+    },
+    {
+     "id": 75523,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_2.png",
+     "name": "Gladiator's Destiny",
+     "pos_name": "Plume of Death",
+     "pos": 2,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150011,
+      "name": "Gladiator's Finale",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "ATK +18%.",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.",
+        "enabled": false
+       }
+      ]
+     }
+    },
+    {
+     "id": 76553,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_5.png",
+     "name": "Viridescent Venerer's Determination",
+     "pos_name": "Sands of Eon",
+     "pos": 3,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150021,
+      "name": "Viridescent Venerer",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Anemo DMG Bonus +15%",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.",
+        "enabled": false
+       }
+      ]
+     }
+    },
+    {
+     "id": 80513,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15006_1.png",
+     "name": "Witch's Heart Flames",
+     "pos_name": "Goblet of Eonothem",
+     "pos": 4,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150061,
+      "name": "Crimson Witch of Flames",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Pyro DMG Bonus +15%",
+        "enabled": false
+       },
+       {
+        "pieces": 4,
+        "effect": "Increases Overloaded and Burning, and Burgeon DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks.",
+        "enabled": false
+       }
+      ]
+     }
+    },
+    {
+     "id": 76533,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_3.png",
+     "name": "Viridescent Venerer's Diadem",
+     "pos_name": "Circlet of Logos",
+     "pos": 5,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150021,
+      "name": "Viridescent Venerer",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Anemo DMG Bonus +15%",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.",
+        "enabled": false
+       }
+      ]
+     }
+    }
+   ],
+   "constellations": [
+    {
+     "id": 261,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xiao_01.png",
+     "pos": 1,
+     "name": "Dissolution Eon: Destroyer of Worlds",
+     "effect": "Increases <color=#FFD780FF>Lemniscatic Wind Cycling</color>'s charges by 1.",
+     "activated": false
+    },
+    {
+     "id": 262,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xiao_02.png",
+     "pos": 2,
+     "name": "Annihilation Eon: Blossom of Kaleidos",
+     "effect": "When in the party and not on the field, Xiao's Energy Recharge is increased by 25%.",
+     "activated": false
+    },
+    {
+     "id": 263,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Xiao_01.png",
+     "pos": 3,
+     "name": "Conqueror of Evil: Wrath Deity",
+     "effect": "Increases the Level of <color=#FFD780FF>Lemniscatic Wind Cycling</color> by 3.\\nMaximum upgrade level is 15.",
+     "activated": false
+    },
+    {
+     "id": 264,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xiao_03.png",
+     "pos": 4,
+     "name": "Transcension: Extinction of Suffering",
+     "effect": "When Xiao's HP falls below 50%, he gains a 100% DEF Bonus.",
+     "activated": false
+    },
+    {
+     "id": 265,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Xiao_02.png",
+     "pos": 5,
+     "name": "Evolution Eon: Origin of Ignorance",
+     "effect": "Increases the Level of <color=#FFD780FF>Bane of All Evil</color> by 3.\\nMaximum upgrade level is 15.",
+     "activated": false
+    },
+    {
+     "id": 266,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xiao_04.png",
+     "pos": 6,
+     "name": "Conqueror of Evil: Guardian Yaksha",
+     "effect": "While under the effects of <color=#FFD780FF>Bane of All Evil</color>, hitting at least 2 opponents with Xiao's Plunging Attack will immediately grant him 1 charge of <color=#FFD780FF>Lemniscatic Wind Cycling</color>, and for the next 1s, he may use Lemniscatic Wind Cycling while ignoring its CD.",
+     "activated": false
+    }
+   ],
+   "outfits": []
+  },
+  {
+   "id": 10000030,
+   "name": "Zhongli",
+   "element": "Geo",
+   "rarity": 5,
+   "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png",
+   "collab": false,
+   "level": 90,
+   "friendship": 10,
+   "constellation": 0,
+   "weapon": {
+    "id": 13407,
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
+    "name": "Favonius Lance",
+    "rarity": 4,
+    "description": "A polearm made in the style of the Knights of Favonius. Its shaft is straight, and its tip flows lightly like the wind.",
+    "level": 80,
+    "type": "Polearm",
+    "ascension": 5,
+    "refinement": 4
+   },
+   "artifacts": [
+    {
+     "id": 91543,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_4.png",
+     "name": "Flower of Accolades",
+     "pos_name": "Flower of Life",
+     "pos": 1,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150171,
+      "name": "Tenacity of the Millelith",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "HP increased by 20%.",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.",
+        "enabled": true
+       }
+      ]
+     }
+    },
+    {
+     "id": 91523,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_2.png",
+     "name": "Ceremonial War-Plume",
+     "pos_name": "Plume of Death",
+     "pos": 2,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150171,
+      "name": "Tenacity of the Millelith",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "HP increased by 20%.",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.",
+        "enabled": true
+       }
+      ]
+     }
+    },
+    {
+     "id": 91554,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_5.png",
+     "name": "Orichalceous Time-Dial",
+     "pos_name": "Sands of Eon",
+     "pos": 3,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150171,
+      "name": "Tenacity of the Millelith",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "HP increased by 20%.",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.",
+        "enabled": true
+       }
+      ]
+     }
+    },
+    {
+     "id": 81513,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_1.png",
+     "name": "Royal Silver Urn",
+     "pos_name": "Goblet of Eonothem",
+     "pos": 4,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150071,
+      "name": "Noblesse Oblige",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Elemental Burst DMG +20%",
+        "enabled": false
+       },
+       {
+        "pieces": 4,
+        "effect": "Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.",
+        "enabled": false
+       }
+      ]
+     }
+    },
+    {
+     "id": 91533,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_3.png",
+     "name": "General's Ancient Helm",
+     "pos_name": "Circlet of Logos",
+     "pos": 5,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150171,
+      "name": "Tenacity of the Millelith",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "HP increased by 20%.",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.",
+        "enabled": true
+       }
+      ]
+     }
+    }
+   ],
+   "constellations": [
+    {
+     "id": 301,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Zhongli_01.png",
+     "pos": 1,
+     "name": "Rock, the Backbone of Earth",
+     "effect": "Increases the maximum number of Stone Steles created by <color=#FFD780FF>Dominus Lapidis</color> that may exist simultaneously to 2.",
+     "activated": false
+    },
+    {
+     "id": 302,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Zhongli_02.png",
+     "pos": 2,
+     "name": "Stone, the Cradle of Jade",
+     "effect": "<color=#FFD780FF>Planet Befall</color> grants nearby characters on the field a Jade Shield when it descends.",
+     "activated": false
+    },
+    {
+     "id": 303,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Zhongli_01.png",
+     "pos": 3,
+     "name": "Jade, Shimmering through Darkness",
+     "effect": "Increases the Level of <color=#FFD780FF>Dominus Lapidis</color> by 3.\\nMaximum upgrade level is 15.",
+     "activated": false
+    },
+    {
+     "id": 304,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Zhongli_03.png",
+     "pos": 4,
+     "name": "Topaz, Unbreakable and Fearless",
+     "effect": "Increases <color=#FFD780FF>Planet Befall</color>'s AoE by 20% and increases the duration of Planet Befall's Petrification effect by 2s.",
+     "activated": false
+    },
+    {
+     "id": 305,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Zhongli_02.png",
+     "pos": 5,
+     "name": "Lazuli, Herald of the Order",
+     "effect": "Increases the Level of <color=#FFD780FF>Planet Befall</color> by 3.\\nMaximum upgrade level is 15.",
+     "activated": false
+    },
+    {
+     "id": 306,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Zhongli_04.png",
+     "pos": 6,
+     "name": "Chrysos, Bounty of Dominator",
+     "effect": "When the Jade Shield takes DMG, 40% of that incoming DMG is converted to HP for the current character.\\nA single instance of regeneration cannot exceed 8% of that character's Max HP.",
+     "activated": false
+    }
+   ],
+   "outfits": []
+  },
+  {
+   "id": 10000052,
+   "name": "Raiden Shogun",
+   "element": "Electro",
+   "rarity": 5,
+   "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png",
+   "collab": false,
+   "level": 90,
+   "friendship": 10,
+   "constellation": 0,
+   "weapon": {
+    "id": 13415,
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Mori.png",
+    "name": "\"The Catch\"",
+    "rarity": 4,
+    "description": "In the distant past, this was the beloved spear of a famed Inazuman bandit.",
+    "level": 90,
+    "type": "Polearm",
+    "ascension": 6,
+    "refinement": 4
+   },
+   "artifacts": [
+    {
+     "id": 94543,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_4.png",
+     "name": "Magnificent Tsuba",
+     "pos_name": "Flower of Life",
+     "pos": 1,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150201,
+      "name": "Emblem of Severed Fate",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Energy Recharge +20%",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.",
+        "enabled": true
+       }
+      ]
+     }
+    },
+    {
+     "id": 94523,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_2.png",
+     "name": "Sundered Feather",
+     "pos_name": "Plume of Death",
+     "pos": 2,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150201,
+      "name": "Emblem of Severed Fate",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Energy Recharge +20%",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.",
+        "enabled": true
+       }
+      ]
+     }
+    },
+    {
+     "id": 75554,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_5.png",
+     "name": "Gladiator's Longing",
+     "pos_name": "Sands of Eon",
+     "pos": 3,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150011,
+      "name": "Gladiator's Finale",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "ATK +18%.",
+        "enabled": false
+       },
+       {
+        "pieces": 4,
+        "effect": "If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.",
+        "enabled": false
+       }
+      ]
+     }
+    },
+    {
+     "id": 94514,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_1.png",
+     "name": "Scarlet Vessel",
+     "pos_name": "Goblet of Eonothem",
+     "pos": 4,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150201,
+      "name": "Emblem of Severed Fate",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Energy Recharge +20%",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.",
+        "enabled": true
+       }
+      ]
+     }
+    },
+    {
+     "id": 94533,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_3.png",
+     "name": "Ornate Kabuto",
+     "pos_name": "Circlet of Logos",
+     "pos": 5,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150201,
+      "name": "Emblem of Severed Fate",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Energy Recharge +20%",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.",
+        "enabled": true
+       }
+      ]
+     }
+    }
+   ],
+   "constellations": [
+    {
+     "id": 521,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shougun_01.png",
+     "pos": 1,
+     "name": "Ominous Inscription",
+     "effect": "<color=#FFD780FF>Chakra Desiderata</color> will gather Resolve even faster. When <color=#FFACFFFF>Electro</color> characters use their Elemental Bursts, the Resolve gained is increased by 80%. When characters of other Elemental Types use their Elemental Bursts, the Resolve gained is increased by 20%.",
+     "activated": false
+    },
+    {
+     "id": 522,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shougun_03.png",
+     "pos": 2,
+     "name": "Steelbreaker",
+     "effect": "While using Musou no Hitotachi and in the Musou Isshin state applied by <color=#FFD780FF>Secret Art: Musou Shinsetsu</color>, the Raiden Shogun's attacks ignore 60% of opponents' DEF.",
+     "activated": false
+    },
+    {
+     "id": 523,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Shougun_02.png",
+     "pos": 3,
+     "name": "Shinkage Bygones",
+     "effect": "Increases the Level of <color=#FFD780FF>Secret Art: Musou Shinsetsu</color> by 3.\\nMaximum upgrade level is 15.",
+     "activated": false
+    },
+    {
+     "id": 524,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shougun_02.png",
+     "pos": 4,
+     "name": "Pledge of Propriety",
+     "effect": "When the <color=#FFD780FF>Musou Isshin</color> state applied by <color=#FFD780FF>Secret Art: Musou Shinsetsu</color> expires, all nearby party members (excluding the Raiden Shogun) gain 30% bonus ATK for 10s.",
+     "activated": false
+    },
+    {
+     "id": 525,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Shougun_01.png",
+     "pos": 5,
+     "name": "Shogun's Descent",
+     "effect": "Increases the Level of <color=#FFD780FF>Transcendence: Baleful Omen</color> by 3.\\nMaximum upgrade level is 15.",
+     "activated": false
+    },
+    {
+     "id": 526,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shougun_04.png",
+     "pos": 6,
+     "name": "Wishbearer",
+     "effect": "While in the <color=#FFD780FF>Musou Isshin</color> state applied by <color=#FFD780FF>Secret Art: Musou Shinsetsu</color>, attacks by the Raiden Shogun that are considered part of her Elemental Burst will decrease all nearby party members' (not including the Raiden Shogun herself) Elemental Burst CD by 1s when they hit opponents.\\nThis effect can trigger once every 1s and can trigger a total of 5 times during Musou Isshin's duration.",
+     "activated": false
+    }
+   ],
+   "outfits": []
+  },
+  {
+   "id": 10000022,
+   "name": "Venti",
+   "element": "Anemo",
+   "rarity": 5,
+   "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png",
+   "collab": false,
+   "level": 80,
+   "friendship": 8,
+   "constellation": 0,
+   "weapon": {
+    "id": 15503,
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith.png",
+    "name": "Elegy for the End",
+    "rarity": 5,
+    "description": "A bow as lovely as any bard's lyre, its arrows pierce the heart like a lamenting sigh.",
+    "level": 80,
+    "type": "Bow",
+    "ascension": 5,
+    "refinement": 1
+   },
+   "artifacts": [
+    {
+     "id": 76543,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_4.png",
+     "name": "In Remembrance of Viridescent Fields",
+     "pos_name": "Flower of Life",
+     "pos": 1,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150021,
+      "name": "Viridescent Venerer",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Anemo DMG Bonus +15%",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.",
+        "enabled": true
+       }
+      ]
+     }
+    },
+    {
+     "id": 76523,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_2.png",
+     "name": "Viridescent Arrow Feather",
+     "pos_name": "Plume of Death",
+     "pos": 2,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150021,
+      "name": "Viridescent Venerer",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Anemo DMG Bonus +15%",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.",
+        "enabled": true
+       }
+      ]
+     }
+    },
+    {
+     "id": 76553,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_5.png",
+     "name": "Viridescent Venerer's Determination",
+     "pos_name": "Sands of Eon",
+     "pos": 3,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150021,
+      "name": "Viridescent Venerer",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Anemo DMG Bonus +15%",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.",
+        "enabled": true
+       }
+      ]
+     }
+    },
+    {
+     "id": 76513,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_1.png",
+     "name": "Viridescent Venerer's Vessel",
+     "pos_name": "Goblet of Eonothem",
+     "pos": 4,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2150021,
+      "name": "Viridescent Venerer",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Anemo DMG Bonus +15%",
+        "enabled": true
+       },
+       {
+        "pieces": 4,
+        "effect": "Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.",
+        "enabled": true
+       }
+      ]
+     }
+    },
+    {
+     "id": 71533,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14001_3.png",
+     "name": "Broken Rime's Echo",
+     "pos_name": "Circlet of Logos",
+     "pos": 5,
+     "rarity": 5,
+     "level": 20,
+     "set": {
+      "id": 2140011,
+      "name": "Blizzard Strayer",
+      "effects": [
+       {
+        "pieces": 2,
+        "effect": "Cryo DMG Bonus +15%",
+        "enabled": false
+       },
+       {
+        "pieces": 4,
+        "effect": "When a character attacks an opponent affected by Cryo, their CRIT Rate is increased by 20%. If the opponent is Frozen, CRIT Rate is increased by an additional 20%.",
+        "enabled": false
+       }
+      ]
+     }
+    }
+   ],
+   "constellations": [
+    {
+     "id": 221,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Venti_01.png",
+     "pos": 1,
+     "name": "Splitting Gales",
+     "effect": "Fires 2 additional arrows per <color=#FFD780FF>Aimed Shot</color>, each dealing 33% of the original arrow's DMG.",
+     "activated": false
+    },
+    {
+     "id": 222,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Venti_02.png",
+     "pos": 2,
+     "name": "Breeze of Reminiscence",
+     "effect": "<color=#FFD780FF>Skyward Sonnet</color> decreases opponents' <color=#80FFD7FF>Anemo RES</color> and Physical RES by 12% for 10s.\\nOpponents launched by <color=#FFD780FF>Skyward Sonnet</color> suffer an additional 12% <color=#80FFD7FF>Anemo RES</color> and Physical RES decrease while airborne.",
+     "activated": false
+    },
+    {
+     "id": 223,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Venti_02.png",
+     "pos": 3,
+     "name": "Ode to Thousand Winds",
+     "effect": "Increases the Level of <color=#FFD780FF>Wind's Grand Ode</color> by 3.\\nMaximum upgrade level is 15.",
+     "activated": false
+    },
+    {
+     "id": 224,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Venti_03.png",
+     "pos": 4,
+     "name": "Hurricane of Freedom",
+     "effect": "When Venti picks up an Elemental Orb or Particle, he receives a 25% <color=#80FFD7FF>Anemo DMG Bonus</color> for 10s.",
+     "activated": false
+    },
+    {
+     "id": 225,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Venti_01.png",
+     "pos": 5,
+     "name": "Concerto dal Cielo",
+     "effect": "Increases the Level of <color=#FFD780FF>Skyward Sonnet</color> by 3.\\nMaximum upgrade level is 15.",
+     "activated": false
+    },
+    {
+     "id": 226,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Venti_04.png",
+     "pos": 6,
+     "name": "Storm of Defiance",
+     "effect": "Targets who take DMG from <color=#FFD780FF>Wind's Grand Ode</color> have their <color=#80FFD7FF>Anemo RES</color> decreased by 20%.\\nIf an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%.",
+     "activated": false
+    }
+   ],
+   "outfits": []
+  }
+ ],
+ "explorations": [
+  {
+   "id": 8,
+   "parent_id": 0,
+   "name": "Sumeru",
+   "raw_explored": 450,
+   "type": "Reputation",
+   "level": 7,
+   "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Xumi.png",
+   "inner_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_Xumi.png",
+   "background_image": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_Xumi.png",
+   "cover": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterCover_Xumi.png",
+   "map_url": "https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_heade&utm_source=hoyolab&utm_medium=battlechronicler#/map/2?shown_types=&center=3334.91,-3897.00&zoom=-1.00",
+   "offerings": [
+    {
+     "name": "Tree of Dreams",
+     "level": 22,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterOffering_DreamTree.png"
+    },
+    {
+     "name": "Reputation",
+     "level": 7,
+     "icon": ""
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "parent_id": 6,
+   "name": "The Chasm: Underground Mines",
+   "raw_explored": 1000,
+   "type": "Offering",
+   "level": 10,
+   "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_ChasmsMaw.png",
+   "inner_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_ChasmsMaw.png",
+   "background_image": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_ChasmsMaw.png",
+   "cover": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterCover_ChasmsMaw.png",
+   "map_url": "https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header#/map/9?center=-71.00,32.00&zoom=-1.00&shown_types=",
+   "offerings": [
+    {
+     "name": "Lumenstone Adjuvant",
+     "level": 10,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterOffering_Lumenstone.png"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "parent_id": 0,
+   "name": "The Chasm",
+   "raw_explored": 991,
+   "type": "Offering",
+   "level": 10,
+   "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_ChasmsMaw.png",
+   "inner_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_ChasmsMaw.png",
+   "background_image": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_ChasmsMaw.png",
+   "cover": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterCover_ChasmsMaw.png",
+   "map_url": "https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header#/map/9?center=-71.00,32.00&zoom=-1.00&shown_types=",
+   "offerings": [
+    {
+     "name": "Lumenstone Adjuvant",
+     "level": 10,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterOffering_Lumenstone.png"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "parent_id": 0,
+   "name": "Enkanomiya",
+   "raw_explored": 911,
+   "type": "Offering",
+   "level": 0,
+   "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Enkanomiya.png",
+   "inner_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_Enkanomiya.png",
+   "background_image": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_Enkanomiya.png",
+   "cover": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterCover_Enkanomiya.png",
+   "map_url": "https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&ts=123&lang=en-us#/map/7?shown_types=2&center=-1.00,199.00&zoom=-2.00",
+   "offerings": []
+  },
+  {
+   "id": 4,
+   "parent_id": 0,
+   "name": "Inazuma",
+   "raw_explored": 990,
+   "type": "Reputation",
+   "level": 10,
+   "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Daoqi.png",
+   "inner_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_Daoqi.png",
+   "background_image": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_Daoqi.png",
+   "cover": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterCover_Daoqi.png",
+   "map_url": "https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header#/map/2?shown_types=&center=5329.96,2489.19&zoom=-1.00",
+   "offerings": [
+    {
+     "name": "Sacred Sakura's Favor",
+     "level": 50,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterOffering_Oraionokami.png"
+    },
+    {
+     "name": "Reputation",
+     "level": 10,
+     "icon": ""
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "parent_id": 0,
+   "name": "Dragonspine",
+   "raw_explored": 1000,
+   "type": "Offering",
+   "level": 12,
+   "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Dragonspine.png",
+   "inner_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_Dragonspine.png",
+   "background_image": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_Dragonspine.png",
+   "cover": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterCover_Dragonspine.png",
+   "map_url": "https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header#/map/2?shown_types=&center=1183.49,-116.41&zoom=0.00",
+   "offerings": [
+    {
+     "name": "Frostbearing Tree",
+     "level": 12,
+     "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterOffering_Eldertree.png"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "parent_id": 0,
+   "name": "Liyue",
+   "raw_explored": 975,
+   "type": "Reputation",
+   "level": 8,
+   "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Liyue.png",
+   "inner_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_Liyue.png",
+   "background_image": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_Liyue.png",
+   "cover": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterCover_Liyue.png",
+   "map_url": "https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header#/map/2?shown_types=&center=2602.08,-1612.55&zoom=-1.00",
+   "offerings": [
+    {
+     "name": "Reputation",
+     "level": 8,
+     "icon": ""
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "parent_id": 0,
+   "name": "Mondstadt",
+   "raw_explored": 1000,
+   "type": "Reputation",
+   "level": 8,
+   "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Mengde.png",
+   "inner_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_Mengde.png",
+   "background_image": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterBackground_Mengde.png",
+   "cover": "https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterCover_Mengde.png",
+   "map_url": "https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header#/map/2?shown_types=&center=-111.00,-201.00&zoom=-1.00",
+   "offerings": [
+    {
+     "name": "Reputation",
+     "level": 8,
+     "icon": ""
+    }
+   ]
+  }
+ ],
+ "teapot": {
+  "realms": [
+   {
+    "name": "Floating Abode",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/home/UI_HomeworldModule_2_Pic.png"
+   },
+   {
+    "name": "Emerald Peak",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/home/UI_HomeworldModule_1_Pic.png"
+   },
+   {
+    "name": "Cool Isle",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/home/UI_HomeworldModule_3_Pic.png"
+   }
+  ],
+  "level": 10,
+  "visitors": 6,
+  "comfort": 21700,
+  "items": 774,
+  "comfort_name": "Fit for a King",
+  "comfort_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/home/UI_Homeworld_Comfort_10.png"
+ }
+}
