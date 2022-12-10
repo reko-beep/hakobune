@@ -1,6 +1,6 @@
 ![Logo](https://github.com/reko-beep/hakobune/blob/master/logo.png?raw=true)
 
-# Hakubone
+# Hakobune
 
 A in development easily extendable bot, being made first for genshin, will likely include valorant and some other games.
 
