@@ -1,4 +1,4 @@
-![Logo](https://github.com/reko-beep/hakubone/blob/master/logo.png?raw=true)
+![Logo](https://github.com/reko-beep/hakobune/blob/master/logo.png?raw=true)
 
 # Hakubone
 
